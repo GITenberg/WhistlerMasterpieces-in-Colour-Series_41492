@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '41203'
     url: http://www.gutenberg.org/2009/agents/41203
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41492#WhistlerMasterpieces-in-Colour-Series
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2012-11-26'
 gutenberg_type: Text
